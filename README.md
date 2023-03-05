@@ -1,6 +1,6 @@
 # Universo Lógico
 
-Aplicação desenvolvida usando Dart e Flutter para dispositivos móveis como Trabalho de Conclusão de Curso para o Técnico em Informática em 2019.
+Aplicação, que visa ensinar lógica para crianças, desenvolvida usando Dart e Flutter para dispositivos móveis como Trabalho de Conclusão de Curso para o Curso de Técnico em Informática em 2019.
 
 ## Imagens da Aplicação
 
